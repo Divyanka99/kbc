@@ -18,4 +18,5 @@ for elems in questions:
             print('sorry you gave wrong answer youa r etaking only 3000 rupees')
         else:
             print('sorry you lost and won 0 rupees')
+            dsafas
         break
